@@ -1,0 +1,10 @@
+language: node_js
+before_install:
+- sudo apt-get install curl
+node_js:
+  - "0.10.4"
+  - "0.10.3"
+  - "0.10"
+  - "0.8"
+notifications:
+  irc: "irc.freenode.org#parttimelegend"

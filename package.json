@@ -1,0 +1,20 @@
+{
+  "name": "buttercoin",
+  "version": "0.0.1",
+  "description": "When you create a new PGP/GPG/OPGP key pair, you need to submit the keys to keyservers. This is an attempt to do this automatically.",
+  "scripts": {
+    "test": "sh start.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/PartTimeLegend/Publish-PGP-Keys.git"
+  },
+  "keywords": [
+    "pgp",
+    "gpg",
+    "open pgp",
+  ],
+  "author": "Antony Bailey (http://github.com/PartTimeLegend/)",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
