@@ -9,6 +9,13 @@
     "type": "git",
     "url": "git://github.com/PartTimeLegend/Publish-PGP-Keys.git"
   },
+    "dependencies": {
+    "node-curl": "0.3.1"
+  },
+  "devDependencies": {
+    "node-curl": "0.3.1"
+  },
+  
   "keywords": [
     "pgp",
     "gpg",
