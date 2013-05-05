@@ -1,1 +1,5 @@
-curl --data-urlencode "file@antonybailey.asc"  http://c8.uvt.nl:11371/pks/add
+#!/bin/bash
+gpg --import antonybailey.asc
+gpg --send-keys F2E50027
+gpg --recv-keys F2E50027
+gpg --refresh-keys
