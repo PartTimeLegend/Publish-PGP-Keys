@@ -2,6 +2,7 @@ language: node_js
 before_install:
 - sudo apt-get install curl
 node_js:
+  - "0.10.8"
   - "0.10.7"
   - "0.10.6"
   - "0.10.5"
