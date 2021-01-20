@@ -48,6 +48,7 @@ It is personal preference. Please ensure you are using a secure application that
 Does it work?
 -------------
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/badb63ed07004cf18e604a0e85c8c801)](https://app.codacy.com/gh/PartTimeLegend/Publish-PGP-Keys?utm_source=github.com&utm_medium=referral&utm_content=PartTimeLegend/Publish-PGP-Keys&utm_campaign=Badge_Grade)
 [![Build Status](https://travis-ci.org/PartTimeLegend/Publish-PGP-Keys.png)](https://travis-ci.org/PartTimeLegend/Publish-PGP-Keys)
 
 ![](https://www.codeship.io/projects/64a55ab0-61eb-0131-d5d5-22e63802c4ab/status)
