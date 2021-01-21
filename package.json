@@ -1,5 +1,5 @@
 {
-  "name": "buttercoin",
+  "name": "publish pgp keys",
   "version": "0.0.1",
   "description": "When you create a new PGP/GPG/OPGP key pair, you need to submit the keys to keyservers. This is an attempt to do this automatically.",
   "scripts": {
