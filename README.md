@@ -1,5 +1,6 @@
 Publish PGP Keys
 ================
+![CI](https://github.com/PartTimeLegend/Publish-PGP-Keys/workflows/CI/badge.svg)
 
 What is PGP?
 -----------
@@ -45,12 +46,3 @@ You should download a Keyring application. Some examples of which are:
 
 It is personal preference. Please ensure you are using a secure application that has been peer reviewed. I would recommend you look for a program with open source code so you can build yourself to ensure that you have a clean install.
 
-Does it work?
--------------
-
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/badb63ed07004cf18e604a0e85c8c801)](https://app.codacy.com/gh/PartTimeLegend/Publish-PGP-Keys?utm_source=github.com&utm_medium=referral&utm_content=PartTimeLegend/Publish-PGP-Keys&utm_campaign=Badge_Grade)
-[![Build Status](https://travis-ci.org/PartTimeLegend/Publish-PGP-Keys.png)](https://travis-ci.org/PartTimeLegend/Publish-PGP-Keys)
-
-![](https://www.codeship.io/projects/64a55ab0-61eb-0131-d5d5-22e63802c4ab/status)
-
-[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=parttimelegend&url=https://github.com/PartTimeLegend/Publish-PGP-Keys&title=Publish PGP Keys&language=&tags=github&category=software) [![Dependency Status](https://gemnasium.com/PartTimeLegend/Publish-PGP-Keys.png)](https://gemnasium.com/PartTimeLegend/Publish-PGP-Keys)
