@@ -34,7 +34,7 @@ On Windows I recommend [Cygwin](http://cygwin.org).
 Why did you do this?
 --------------------
 
-Boredom mainly. I really like automation of tasks, and as I have a repo for [my public keys](https://github.com/PartTimeLegend/PGPKeys) I wanted a way to have these use [Travis CI](https://travis-ci.org) to validate and publish the keys so I don't have to.
+Boredom mainly. I really like automation of tasks, and as I have a repo for [my public keys](https://github.com/PartTimeLegend/PGPKeys) I wanted a way to have these use Githug Actions to validate and publish the keys so I don't have to.
 
 How can I use PGP?
 ------------------
